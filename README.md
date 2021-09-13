@@ -4,7 +4,7 @@
 - 🎈 São Paulo - SP
 
 <em>"O valor de um homem deve medir-se pelo que dá e não pelo que recebe. Não se converta em um homem de sucesso senão num homem de valores. O único lugar onde o sucesso vem antes do trabalho é no dicionário. A educação é o que sobra depois que a gente se esquece do que aprendeu na escola."</em>
-  - Albert Einstein
+  -Albert Einstein
 
 ### Minhas informações aqui no GitHub:
 <div>
