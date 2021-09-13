@@ -35,6 +35,8 @@
    
    ##
    
+   <img align="center" alt="Omega-Sonic" src="https://orig01.deviantart.net/6ca0/f/2012/025/8/d/sonic_runs_by_artmasterrich-d4nms5k.gif">
+   
    
    
    
