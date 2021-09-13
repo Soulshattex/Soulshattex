@@ -8,7 +8,7 @@
   
   ##
 
-### Minhas informações aqui no GitHub:
+### Minhas informações no GitHub:
 <div>
   <a href="https://github.com/Omegalliax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omegalliax&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
