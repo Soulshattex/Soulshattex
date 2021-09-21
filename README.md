@@ -15,14 +15,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omegalliax&layout=compact&langs_count=7&theme=github_dark"/>
  </div>
   
-### Linguagens as quais tenho conhecimento:  
+### Linguagens, Tecnologias as quais tenho conhecimento:  
   <div style="display: inline_block"><br>
-  <img align="center" alt="Omega-Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Omega-Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="Omega-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Omega-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Omega-Js" height="30" width="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Omega-Git" height"30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS" height="30" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="JS" height="30" width="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="SQL" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img align="center" alt="Git" height"30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
   
   ##
@@ -36,7 +37,7 @@
    ##
    
    <h1 align="center"> Obrigado e volte sempre! 👋</h1>
-   <img align="center" alt="Omega-Sonic" width="1080" src="https://orig01.deviantart.net/6ca0/f/2012/025/8/d/sonic_runs_by_artmasterrich-d4nms5k.gif">
+   <img align="center" alt="Sonic" width="1080" src="https://orig01.deviantart.net/6ca0/f/2012/025/8/d/sonic_runs_by_artmasterrich-d4nms5k.gif">
    
    
    
