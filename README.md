@@ -27,14 +27,7 @@
   <img align="center" alt="SQL" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img align="center" alt="Git" height"30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
-
-### Idiomas os quais tenho certa proficiência:
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Portuguese" height="" width="" src="">
-  <img align="center" alt="Portuguese" height="" width="" src="">
-  </div>
-  
-  
+   
   ##
   
   ### Entre em contato comigo através das minhas redes sociais! 💻📳
