@@ -1,7 +1,6 @@
 ### Olá! Me chamo Vitor Eliel seja bem vindo(a) ao meu GitHub!
 
 ![count](https://komarev.com/ghpvc/?username=Omegalliax)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/Omegalliax/Omegalliax)
 
 - 🖥 Estudante de Ciência da Computação 1/8
 - 🎈 São Paulo - SP
