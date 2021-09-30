@@ -25,6 +25,13 @@
   <img align="center" alt="SQL" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img align="center" alt="Git" height"30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
+
+### Idiomas os quais tenho certa proficiência:
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Portuguese" height="" width="" src="">
+  <img align="center" alt="Portuguese" height="" width="" src="">
+  </div>
+  
   
   ##
   
@@ -35,12 +42,13 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
    
    ##
-   
+   <p>Quantidade de vezes que meu perfil foi visitado desde 30/09/2021🤫</p>
+   ![Profile View Counter](https://komarev.com/ghpvc/?username=Omegalliax)
    <h1 align="center"> Obrigado e volte sempre! 👋</h1>
    <img align="center" alt="Sonic" width="1080" src="https://orig01.deviantart.net/6ca0/f/2012/025/8/d/sonic_runs_by_artmasterrich-d4nms5k.gif">
    
    
-   ![Snake Animation](https://github.com/Omegalliax/Omegalliax/blob/output/github-contribution-grid-snake.svg)
+   
    
    
    
