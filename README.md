@@ -42,8 +42,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
    
    ##
-   <p>Quantidade de vezes que meu perfil foi visitado desde 30/09/2021🤫</p>
-   ![Profile View Counter](https://komarev.com/ghpvc/?username=Omegalliax)
    <h1 align="center"> Obrigado e volte sempre! 👋</h1>
    <img align="center" alt="Sonic" width="1080" src="https://orig01.deviantart.net/6ca0/f/2012/025/8/d/sonic_runs_by_artmasterrich-d4nms5k.gif">
    
