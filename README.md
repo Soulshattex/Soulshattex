@@ -1,4 +1,5 @@
 ![count](https://komarev.com/ghpvc/?username=Omegalliax)
+<img align="right" alt="PC Gif" src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="150"/>
 ### Olá! Me chamo Vitor Eliel seja bem vindo(a) ao meu GitHub!         
 
 - 🖥 Estudante de Ciência da Computação 1/8
@@ -6,9 +7,7 @@
 
 <em>"O valor de um homem deve medir-se pelo que dá e não pelo que recebe. Não se converta em um homem de sucesso senão num homem de valores. O único lugar onde o sucesso vem antes do trabalho é no dicionário. A educação é o que sobra depois que a gente se esquece do que aprendeu na escola."</em>
   -Albert Einstein
-  <br>
-  <img align="right" alt="PC Gif" src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="150"/>
-  <br>
+  
   ##
 
 ### Minhas informações no GitHub:
@@ -35,7 +34,7 @@
  <div> 
   <a href="https://www.instagram.com/vitor_ebf/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-eliel-b-916639220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
    
    ##
    <h1 align="center"> Obrigado e volte sempre! 👋</h1>
