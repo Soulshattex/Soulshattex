@@ -1,5 +1,5 @@
 ![count](https://komarev.com/ghpvc/?username=Omegalliax)
-<img align="right" alt="PC Gif" src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="150"/>
+<img align="right" alt="PC Gif" src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="125"/>
 ### Olá! Me chamo Vitor Eliel seja bem vindo(a) ao meu GitHub!         
 
 - 🖥 Estudante de Ciência da Computação 1/8
