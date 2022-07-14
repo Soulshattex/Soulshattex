@@ -1,4 +1,4 @@
-![count](https://komarev.com/ghpvc/?username=Omegalliax)
+![count](https://komarev.com/ghpvc/?username=Omegalliax&color=brightgreen)
 <img align="right" alt="PC Gif" src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="125"/>
 ### Olá! Me chamo Vitor Eliel seja bem vindo(a) ao meu GitHub!         
 
