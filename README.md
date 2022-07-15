@@ -27,7 +27,10 @@
   <img align="center" alt="CSS" height="30" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JS" height="30" width="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="SQL" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img align="center" alt="Git" height"30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Git" height="30" width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Spring" height="30" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt="Heroku" height="30" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  <img align="center" alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
    
   ##
@@ -40,7 +43,7 @@
    
    ##
    <h1 align="center"> Obrigado e volte sempre! 👋</h1>
-   <img align="center" alt="Sonic" width="1080" src="https://orig01.deviantart.net/6ca0/f/2012/025/8/d/sonic_runs_by_artmasterrich-d4nms5k.gif">
+   <img align="center" alt="Sonic" width="1080" src="https://media1.giphy.com/media/4SY40ExbxfyOyD91VI/giphy.gif?cid=ecf05e47q71gll530dg24isz0yx0h0iiqbdpr9cinapaozdx&rid=giphy.gif&ct=g">
    
    
    
