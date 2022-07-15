@@ -42,7 +42,6 @@
   <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
    
    ##
-   ![Jokes Card](https://readme-jokes-omegalliax.vercel.app/api)
    <h1 align="center"> Obrigado e volte sempre! 👋</h1>
    <img align="center" alt="Sonic" width="1080" src="https://media1.giphy.com/media/4SY40ExbxfyOyD91VI/giphy.gif?cid=ecf05e47q71gll530dg24isz0yx0h0iiqbdpr9cinapaozdx&rid=giphy.gif&ct=g">
    
