@@ -43,7 +43,7 @@
    
    ##
    <h1 align="center"> Obrigado e volte sempre! 👋</h1>
-   <img align="center" alt="Sonic" width="768" src="https://media1.giphy.com/media/4SY40ExbxfyOyD91VI/giphy.gif?cid=ecf05e47q71gll530dg24isz0yx0h0iiqbdpr9cinapaozdx&rid=giphy.gif&ct=g">
+   <img align="center" alt="Sonic" width="830" src="https://media1.giphy.com/media/4SY40ExbxfyOyD91VI/giphy.gif?cid=ecf05e47q71gll530dg24isz0yx0h0iiqbdpr9cinapaozdx&rid=giphy.gif&ct=g">
    
    
    
