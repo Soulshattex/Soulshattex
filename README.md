@@ -13,8 +13,8 @@
 ### Minhas informações no GitHub:
 <div>
   <a href="https://github.com/Soulshattex">
-  <img height="180em" src="https://github-stats-omegalliax.vercel.app/api?username=Soulshattex&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-stats-omegalliax.vercel.app/api/top-langs/?username=Soulshattex&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-stats-soulshattex.vercel.app/api?username=Soulshattex&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-soulshattex.vercel.app/api/top-langs/?username=Soulshattex&layout=compact&langs_count=7&theme=chartreuse-dark"/>
  </div>
   
   ##
